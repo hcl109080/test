@@ -1,6 +1,6 @@
 <?php
 
-namespace numberFormat;
+namespace Hcl109080;
 
 
 class Num{
